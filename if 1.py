@@ -1,5 +1,7 @@
 name=input("이름 : ")
 
+
+
 print("-*"*30)
 print("\t\t%s의 시험성적 프로그램"%(name))
 print("-*"*30)
